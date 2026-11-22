@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=GerenciadorFases
+comment1.params=mundo
+comment1.target=GerenciadorFases(greenfoot.World)
+comment2.params=
+comment2.target=void\ iniciarProximaOnda()
+comment3.params=
+comment3.target=int\ getOndaAtual()
+comment4.params=
+comment4.target=int\ getFloresRestantes()
+comment5.params=
+comment5.target=void\ registrarFlorColetada()
+comment6.params=
+comment6.target=boolean\ isOndaConcluida()
+comment7.params=
+comment7.target=boolean\ isJogoConcluido()
+comment8.params=
+comment8.target=void\ gerarInimigos()
+comment9.params=
+comment9.target=void\ gerarFlores()
+numComments=10

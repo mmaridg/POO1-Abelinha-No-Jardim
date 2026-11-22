@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ItemColetavel
+comment1.params=valor
+comment1.target=ItemColetavel(int)
+comment2.params=
+comment2.target=int\ getValor()
+comment3.params=valor
+comment3.target=void\ setValor(int)
+comment4.params=abelha
+comment4.target=void\ aplicarEfeito(Abelha)
+comment5.params=
+comment5.target=void\ removerDoMundo()
+numComments=6

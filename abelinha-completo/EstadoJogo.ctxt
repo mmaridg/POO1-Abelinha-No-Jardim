@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.target=EstadoJogo
+comment0.text=\r\n\ Estados\ poss\u00EDveis\ da\ partida\ de\ Abelhinha\ no\ Jardim.\r\n\ Enum\ evita\ estados\ inv\u00E1lidos\ e\ substitui\ textos\ soltos\ no\ c\u00F3digo.\r\n
+numComments=1

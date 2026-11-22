@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=GerenciadorAudio
+comment1.params=
+comment1.target=GerenciadorAudio()
+comment2.params=nomeDoSom
+comment2.target=void\ tocar(java.lang.String)
+comment3.params=nomeDoSom
+comment3.target=void\ tocarLoop(java.lang.String)
+comment4.params=
+comment4.target=void\ pararMusica()
+comment5.params=ativo
+comment5.target=void\ setSomAtivo(boolean)
+comment6.params=
+comment6.target=boolean\ isSomAtivo()
+numComments=7

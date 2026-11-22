@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Inimigo
+comment1.params=vidaMaxima\ velocidade\ dano
+comment1.target=Inimigo(int,\ int,\ int)
+comment2.params=
+comment2.target=int\ getDano()
+comment3.params=dano
+comment3.target=void\ setDano(int)
+comment4.params=
+comment4.target=void\ atuar()
+comment5.params=alvo
+comment5.target=void\ atacar(Abelha)
+comment6.params=
+comment6.target=void\ act()
+comment7.params=
+comment7.target=void\ virarNaBorda()
+comment8.params=largura\ altura\ corPrincipal\ corDestaque\ linhas
+comment8.target=greenfoot.GreenfootImage\ criarSpriteVento(int,\ int,\ greenfoot.Color,\ greenfoot.Color,\ int)
+numComments=9

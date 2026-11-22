@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Ventania
+comment1.params=
+comment1.target=Ventania()
+comment2.params=
+comment2.target=void\ atuar()
+comment3.params=alvo
+comment3.target=void\ atacar(Abelha)
+comment4.params=
+comment4.target=int\ getForcaEmpurrao()
+comment5.params=forca
+comment5.target=void\ setForcaEmpurrao(int)
+comment6.params=
+comment6.target=greenfoot.GreenfootImage\ gerarSpriteVentania()
+numComments=7

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Arbusto
+comment0.text=\r\n\ Elemento\ decorativo\ do\ jardim.\ A\ composi\u00E7\u00E3o\ do\ MundoJogo\ mant\u00E9m\r\n\ uma\ lista\ de\ arbustos\ durante\ a\ exist\u00EAncia\ da\ partida.\r\n\r\n\ N\u00E3o\ movimenta\ nem\ aplica\ dano\:\ sua\ responsabilidade\ \u00E9\ visual.\r\n
+comment1.params=tamanho
+comment1.target=Arbusto(int)
+comment1.text=\r\n\ @param\ tamanho\ di\u00E2metro\ aproximado\ da\ copa,\ em\ pixels\ (m\u00EDnimo\:\ 20)\r\n
+comment2.params=
+comment2.target=int\ getTamanho()
+comment3.params=tamanho
+comment3.target=void\ setTamanho(int)
+comment3.text=Regra\ de\ neg\u00F3cio\:\ n\u00E3o\ admite\ tamanho\ menor\ que\ 20\ pixels.
+numComments=4

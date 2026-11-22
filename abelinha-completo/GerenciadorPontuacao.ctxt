@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=GerenciadorPontuacao
+comment1.params=
+comment1.target=GerenciadorPontuacao()
+comment2.params=pontos
+comment2.target=void\ adicionarPontos(int)
+comment3.params=
+comment3.target=int\ getPontos()
+comment4.params=
+comment4.target=void\ resetar()
+numComments=5

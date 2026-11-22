@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=EntidadeMovel
+comment0.text=\r\n\ Base\ de\ todas\ as\ entidades\ que\ se\ movem\ e\ possuem\ vida\ na\ arena.\r\n
+comment1.params=vidaMaxima\ velocidade
+comment1.target=EntidadeMovel(int,\ int)
+comment2.params=
+comment2.target=int\ getVida()
+comment3.params=vida
+comment3.target=void\ setVida(int)
+comment4.params=
+comment4.target=int\ getVidaMaxima()
+comment5.params=
+comment5.target=int\ getVelocidade()
+comment6.params=velocidade
+comment6.target=void\ setVelocidade(int)
+comment7.params=valor
+comment7.target=void\ receberDano(int)
+comment8.params=
+comment8.target=boolean\ estaViva()
+comment9.params=
+comment9.target=void\ manterDentroDaArena()
+numComments=10
